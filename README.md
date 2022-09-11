@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinno-cq&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinno-cq&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=kjinno-cq&count_private=true&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinno-cq&theme=gruvbox)
 
 <!--
 **kjinno-cq/kjinno-cq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
