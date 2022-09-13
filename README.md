@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=kjinno-cq&count_private=true&show_icons=true&theme=gruvbox)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinno-cq&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinno-cq&count_private=true&theme=gruvbox)
 
 <!--
 **kjinno-cq/kjinno-cq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
